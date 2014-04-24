@@ -1,0 +1,4 @@
+ru:
+  robokassa:
+    payment_succeed: Оплата выполнена успешно
+    payment_failed: Не удалось провести оплату
